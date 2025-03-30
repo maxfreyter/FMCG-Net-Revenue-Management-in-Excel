@@ -58,8 +58,8 @@ Profitability is the heartbeat of strategic decision-making. Here, I dissected p
 • Notable Insight: Starbust Ultra Soft 100ML emerged as the flagship product, while Shinez Repair 200ML demonstrated unparalleled profitability.
 
 
+![2025-03-30 (7)](https://github.com/user-attachments/assets/ad07c00f-6b49-4e29-8522-9bfc72226d44)
 
-![2025-03-30 (2)](https://github.com/user-attachments/assets/de378314-f078-4092-856d-85cf7affb9bb)
 
 
 ### 4. New Category Expansion: Organic Shampoo
