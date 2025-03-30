@@ -57,9 +57,10 @@ Profitability is the heartbeat of strategic decision-making. Here, I dissected p
 
 
 
-(Put Profitability Matrix Scatter Plot image here)
+![2025-03-30 (2)](https://github.com/user-attachments/assets/de378314-f078-4092-856d-85cf7affb9bb)
 
-4. New Category Expansion: Organic Shampoo
+
+### 4. New Category Expansion: Organic Shampoo
 
 
 
@@ -75,7 +76,7 @@ Recognizing the explosive growth in the organic shampoo segment, I:
 
 (Put New Category Opportunity PivotTable and Forecast Comparison image here)
 
-5. Pricing Strategy: 50ML Shampoo Pack Launch
+### 5. Pricing Strategy: 50ML Shampoo Pack Launch
 
 
 
@@ -91,7 +92,7 @@ Capitalizing on consumer demand for travel-sized options, I reengineered the pri
 
 (Put 50ML Pricing and Sales Forecast Table image here)
 
-6. Promotional Effectiveness & ROI Analysis
+### 6. Promotional Effectiveness & ROI Analysis
 
 
 
@@ -125,7 +126,7 @@ The final phase synthesizes all insights into a compelling forecast:
 
 (Put Forecasted Net Sales Table and Waterfall Chart image here)
 
-7. Revenue Forecasting & Waterfall Growth Model
+### 7. Revenue Forecasting & Waterfall Growth Model
 
 
 
@@ -142,17 +143,3 @@ The final phase synthesizes all insights into a compelling forecast:
 
 
 (Put Forecasted Net Sales Table and Waterfall Chart image here)
-
-7. Revenue Forecasting & Waterfall Growth Model
-
-
-
-The final phase synthesizes all insights into a compelling forecast:
-
-• Market Sales Forecast: Using historical data and Excel’s forecasting tools to predict 2023 and 2024 market values.
-
-• Net Sales Projection: Applying established market ratios to estimate HealthMax’s net sales.
-
-• Waterfall Analysis: A visual model that integrates natural growth, new product initiatives, and the 50ML launch to reveal the total revenue impact.
-
-• Notable Insight: The comprehensive forecast projects a significant boost in 2024 revenue, affirming the effectiveness of the combined NRM initiatives.
