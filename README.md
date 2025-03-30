@@ -23,7 +23,8 @@ The journey begins with a meticulous examination of HealthMax’s market perform
 
 
 
-(Put HealthMax Growth PivotTable image here)
+![2025-03-30](https://github.com/user-attachments/assets/79d36117-4b6f-4116-aafe-e609a5aede9f)
+
 
 ### 2. Year-to-Date (YTD) & Moving Annual Total (MAT) Analysis
 
@@ -39,7 +40,8 @@ To capture both seasonal nuances and long-term trends, I calculated:
 
 
 
-(Put MAT Value Total Category PivotTable image here)
+![2025-03-30 (1)](https://github.com/user-attachments/assets/b90ca3d9-37eb-465b-8e43-1e7f5369aae6)
+
 
 ### 3. Profitability & Gross Margin Optimization
 
@@ -74,7 +76,8 @@ Recognizing the explosive growth in the organic shampoo segment, I:
 
 
 
-(Put New Category Opportunity PivotTable and Forecast Comparison image here)
+![2025-03-30 (3)](https://github.com/user-attachments/assets/decdacfd-70fa-4ae4-820e-fe598ae56ccc)
+
 
 ### 5. Pricing Strategy: 50ML Shampoo Pack Launch
 
@@ -108,23 +111,7 @@ To refine our promotional strategies for 2024, I evaluated three past promotions
 
 (Put Shinez Promotion ROI Analysis Chart image here)
 
-7. Revenue Forecasting & Waterfall Growth Model
 
-
-
-The final phase synthesizes all insights into a compelling forecast:
-
-• Market Sales Forecast: Using historical data and Excel’s forecasting tools to predict 2023 and 2024 market values.
-
-• Net Sales Projection: Applying established market ratios to estimate HealthMax’s net sales.
-
-• Waterfall Analysis: A visual model that integrates natural growth, new product initiatives, and the 50ML launch to reveal the total revenue impact.
-
-• Notable Insight: The comprehensive forecast projects a significant boost in 2024 revenue, affirming the effectiveness of the combined NRM initiatives.
-
-
-
-(Put Forecasted Net Sales Table and Waterfall Chart image here)
 
 ### 7. Revenue Forecasting & Waterfall Growth Model
 
