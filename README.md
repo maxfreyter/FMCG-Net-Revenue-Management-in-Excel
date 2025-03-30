@@ -5,17 +5,15 @@ Analyzed FMCG data to optimize pricing, product mix, and promotional strategies,
 
 
 
-#### In today’s ultra-competitive FMCG arena, data-driven insights are the secret weapon behind the success of iconic brands like Coca-Cola, Nivea, and Lay’s. This project harnesses the power of advanced Excel analytics to transform raw market data into actionable, high-impact business strategies for HealthMax, a market leader in the shampoo industry. By combining rigorous data analysis with strategic forecasting, this project illuminates pathways to superior revenue growth and profitability.
+  In today’s ultra-competitive FMCG arena, data-driven insights are the secret weapon behind the success of iconic brands like Coca-Cola, Nivea, and Lay’s. This project harnesses the power of advanced Excel analytics to transform raw market data into actionable, high-impact business strategies for HealthMax, a market leader in the shampoo industry. By combining rigorous data analysis with strategic forecasting, this project illuminates pathways to superior revenue growth and profitability.
 
 
 
 (Put Project Overview infographic image here)
 
-Data Analysis & Methodology
+## Data Analysis & Methodology 
 
-
-
-1. Market Performance & Brand Growth
+### 1. Market Performance & Brand Growth
 
 
 
@@ -27,7 +25,7 @@ The journey begins with a meticulous examination of HealthMax’s market perform
 
 (Put HealthMax Growth PivotTable image here)
 
-2. Year-to-Date (YTD) & Moving Annual Total (MAT) Analysis
+### 2. Year-to-Date (YTD) & Moving Annual Total (MAT) Analysis
 
 
 
@@ -43,7 +41,7 @@ To capture both seasonal nuances and long-term trends, I calculated:
 
 (Put MAT Value Total Category PivotTable image here)
 
-3. Profitability & Gross Margin Optimization
+### 3. Profitability & Gross Margin Optimization
 
 
 
