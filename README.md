@@ -131,5 +131,6 @@ The final phase synthesizes all insights into a compelling forecast:
 • Notable Insight: The comprehensive forecast projects a significant boost in 2024 revenue, affirming the effectiveness of the combined NRM initiatives.
 
 
+![2025-03-30 (9)](https://github.com/user-attachments/assets/583eec6f-648d-4ba6-8770-f1471b726422)
 
-(Put Forecasted Net Sales Table and Waterfall Chart image here)
+![2025-03-30 (10)](https://github.com/user-attachments/assets/07d43c43-beba-43b9-a1ff-c7cf495f40db)
