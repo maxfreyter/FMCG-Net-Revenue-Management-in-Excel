@@ -91,9 +91,11 @@ Capitalizing on consumer demand for travel-sized options, I reengineered the pri
 
 • Notable Insight: The 50ML pack is projected to generate significant annual net sales, unlocking a new revenue stream.
 
+![2025-03-30 (6)](https://github.com/user-attachments/assets/98aa6646-8217-4e68-b10e-a4813895a532)
+
+![2025-03-30 (5)](https://github.com/user-attachments/assets/51763028-42e4-42b1-82dc-451fdd6e9318)
 
 
-(Put 50ML Pricing and Sales Forecast Table image here)
 
 ### 6. Promotional Effectiveness & ROI Analysis
 
