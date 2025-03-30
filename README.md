@@ -111,7 +111,8 @@ To refine our promotional strategies for 2024, I evaluated three past promotions
 
 
 
-(Put Shinez Promotion ROI Analysis Chart image here)
+![2025-03-30 (8)](https://github.com/user-attachments/assets/a66c0cf4-1232-44f6-8772-dfdfd4c60a5d)
+
 
 
 
