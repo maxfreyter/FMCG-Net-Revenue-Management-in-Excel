@@ -76,7 +76,7 @@ Since HealthMax is only active in 2 out of the 5 shampoo subcategories, it would
 
 Once I knew the fastest growing subcategory, I made a full year estimate for the amount of units in the organic subcategory in 2024. First, we want to look at the latest yearly size of this subcategory, using the Units MAT values for March 2023, which is the latest data available. 
 
-Based on this histoic trend, the 2024 category size should be approximately 20% higher than the March 2023 MAT values. (We multiply Units MAT of Organic * 1.2)
+Based on this histoic trend, the 2024 category size should be approximately 20% higher than the March 2023 MAT values. (We multiply Units MAT of Organic by 1.2)
 
 ![2025-03-31](https://github.com/user-attachments/assets/cdb33aa7-4877-410c-8226-445539d98a43)
 
