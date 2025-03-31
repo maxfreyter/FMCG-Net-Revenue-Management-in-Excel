@@ -30,9 +30,9 @@ The journey begins with a meticulous examination of HealthMax’s market perform
 
 To capture both seasonal nuances and long-term trends, I calculated:
 
-• YTD Sales: Using SUMIFS() to track cumulative performance.
+• YTD Sales: Using SUMIFS() to track cumulative performance. (=SUMIFS(I:I,D:D,[@Brand],E:E,[@Region],F:F,[@Year];G:G,"<="&[@Month]))
 
-• MAT: A moving annual total that smooths seasonal volatility, offering a robust view of the latest 12-month performance.
+• MAT: A moving annual total that smooths seasonal volatility, offering a robust view of the latest 12-month performance. (=[@[Values YTD]]+SUMIFS(I:I;D:D;[@Brand];E:E;[@Region];F:F;[@Year]-1;G:G;">"&[@Month]))
 
 📊 Notable Insight: In the most recent 12 months, the shampoo's generated over $98 million of turnover.
 
@@ -47,9 +47,13 @@ To capture both seasonal nuances and long-term trends, I calculated:
 
 Profitability is the heartbeat of strategic decision-making. Here, I dissected product-level performance by calculating:
 
-• Net Sales per Product
+• Net Sales per Product (Net Price x Volume 2022)
 
-• Gross Profit per Unit & Gross Margin (%): Derived from meticulous calculations that contrasted Net Price and COGS.
+• Gross Profit per Unit (Net Price - COGS) 
+
+• Gross Profit per product  (Gross Profit per unit x Volume 2022)
+
+• Gross Margin  (Gross Profit per unit / Net Price)
 
 • Profitability Matrix: A scatter plot mapping gross margin against net sales contribution, spotlighting the stars in the portfolio.
 
