@@ -70,13 +70,15 @@ Profitability is the heartbeat of strategic decision-making. Here, I dissected p
 
 Since HealthMax is only active in 2 out of the 5 shampoo subcategories, it would be interesting to launch a new product to enter a new subcategory. To do this, I identified the fastest growing subcategory (in units). 
 
+![2025-03-30 (3)](https://github.com/user-attachments/assets/f1d883e3-615d-4448-a6b1-19a7794ef4c7)
+
 • Organic is by far the fastest growing subcategory from 2018 to 2022 at 276%!
 
 Once I knew the fastest growing subcategory, I made a full year estimate for the amount of units in the organic subcategory in 2024. First, we want to look at the latest yearly size of this subcategory, using the Units MAT values for March 2023, which is the latest data available. 
 
 Based on this histoic trend, the 2024 category size should be approximately 20% higher than the March 2023 MAT values. (We multiply Units MAT of Organic * 1.2)
 
-![2025-03-30 (3)](https://github.com/user-attachments/assets/decdacfd-70fa-4ae4-820e-fe598ae56ccc)
+![2025-03-31](https://github.com/user-attachments/assets/cdb33aa7-4877-410c-8226-445539d98a43)
 
 • Projected 2024 Potential:  1,020,899 units in the organic category are expected to sell in 2024.
 
