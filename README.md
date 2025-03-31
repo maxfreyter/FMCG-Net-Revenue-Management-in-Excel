@@ -17,7 +17,7 @@ Analyzed FMCG data to optimize pricing, product mix, and promotional strategies,
 
 The journey begins with a meticulous examination of HealthMax’s market performance. Using dynamic PivotTables, I aggregated value sales data from 2018 to 2022, revealing compelling insights into brand evolution and year-over-year growth—while deliberately excluding the incomplete 2023 data to maintain accuracy.
 
-• Notable Insight: HealthMax had it's strongest year of growth in 2020 at nearly 4%. Shinez was a big contributor with 7.7% growth!
+📊 Notable Insight: HealthMax had it's strongest year of growth in 2020 at nearly 4%. Shinez was a big contributor with 7.7% growth!
 
 
 
@@ -34,7 +34,7 @@ To capture both seasonal nuances and long-term trends, I calculated:
 
 • MAT: A moving annual total that smooths seasonal volatility, offering a robust view of the latest 12-month performance.
 
-• Notable Insight: In the most recent 12 months, the shampoo's generated over $98 million of turnover.
+📊 Notable Insight: In the most recent 12 months, the shampoo's generated over $98 million of turnover.
 
 
 
@@ -53,7 +53,7 @@ Profitability is the heartbeat of strategic decision-making. Here, I dissected p
 
 • Profitability Matrix: A scatter plot mapping gross margin against net sales contribution, spotlighting the stars in the portfolio.
 
-• Notable Insight: Starbust Ultra Soft 100ML emerged as the flagship product, while Shinez Repair 200ML demonstrated unparalleled profitability.
+📊 Notable Insight: Starbust Ultra Soft 100ML emerged as the flagship product, while Shinez Repair 200ML demonstrated unparalleled profitability.
 
 
 ![2025-03-30 (7)](https://github.com/user-attachments/assets/ad07c00f-6b49-4e29-8522-9bfc72226d44)
@@ -70,7 +70,7 @@ Recognizing the explosive growth in the organic shampoo segment, I:
 
 • Projected 2024 Potential: Estimating a 20% increase in category size and forecasting net sales for new product candidates.
 
-• Notable Insight: The analysis decisively supports launching HerbEssentials, projected to generate $0.36M in net sales.
+📊 Notable Insight: The analysis decisively supports launching HerbEssentials, projected to generate $0.36M in net sales.
 
 
 
@@ -87,7 +87,7 @@ Capitalizing on consumer demand for travel-sized options, I reengineered the pri
 
 • Sales Volume Forecast: Estimated the 50ML variant’s sales at 10% of the 100ML pack’s 2022 volume, ensuring a viable market entry.
 
-• Notable Insight: The 50ML pack is projected to generate significant annual net sales, unlocking a new revenue stream.
+📊 Notable Insight: The 50ML pack is projected to generate significant annual net sales, unlocking a new revenue stream.
 
 ![2025-03-30 (6)](https://github.com/user-attachments/assets/98aa6646-8217-4e68-b10e-a4813895a532)
 
@@ -105,7 +105,7 @@ To refine our promotional strategies for 2024, I evaluated three past promotions
 
 • Computing ROI: Determining the efficiency of each promotion to isolate the most cost-effective strategy.
 
-• Notable Insight: One promotion emerged as the clear winner in terms of ROI, setting the benchmark for future campaigns.
+📊 Notable Insight: One promotion emerged as the clear winner in terms of ROI, setting the benchmark for future campaigns.
 
 
 
@@ -126,7 +126,7 @@ The final phase synthesizes all insights into a compelling forecast:
 
 • Waterfall Analysis: A visual model that integrates natural growth, new product initiatives, and the 50ML launch to reveal the total revenue impact.
 
-• Notable Insight: The comprehensive forecast projects a significant boost in 2024 revenue, affirming the effectiveness of the combined NRM initiatives.
+📊 Notable Insight: The comprehensive forecast projects a significant boost in 2024 revenue, affirming the effectiveness of the combined NRM initiatives.
 
 
 ![2025-03-30 (9)](https://github.com/user-attachments/assets/583eec6f-648d-4ba6-8770-f1471b726422)
