@@ -84,6 +84,11 @@ Based on this histoic trend, the 2024 category size should be approximately 20% 
 
 📊 Notable Insight: Projected 2024 Potential:  1.02 million units in the organic category are expected to sell in 2024.
 
+Organic shampoos are booming. HealthMax has two possible products that fit in this category and that can be launched in the beginning of 2024. My next step was to identiy the best candidate by making an estimation of expect net sales, gross profit, and gross margin for both products.
+
+![2025-03-30 (5)](https://github.com/user-attachments/assets/5f4a2c78-ee5f-40a1-a33f-973b91850d55)
+
+📊 Notable Insight: Herbashine will generate less net sales than HerbEssentials but more gross profit.
 
 ### 5. Pricing Strategy: 50ML Shampoo Pack Launch
 
