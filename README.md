@@ -9,8 +9,6 @@ Analyzed FMCG data to optimize pricing, product mix, and promotional strategies,
 
 
 
-(Put Project Overview infographic image here)
-
 ## Data Analysis & Methodology 
 
 ### 1. Market Performance & Brand Growth
