@@ -77,6 +77,7 @@ Once I knew the fastest growing subcategory, I made a full year estimate for the
 Based on this histoic trend, the 2024 category size should be approximately 20% higher than the March 2023 MAT values. (We multiply Units MAT of Organic * 1.2)
 
 ![2025-03-30 (3)](https://github.com/user-attachments/assets/decdacfd-70fa-4ae4-820e-fe598ae56ccc)
+
 • Projected 2024 Potential:  1,020,899 units in the organic category are expected to sell in 2024.
 
 
