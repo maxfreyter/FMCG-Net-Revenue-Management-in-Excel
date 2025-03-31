@@ -34,7 +34,7 @@ To capture both seasonal nuances and long-term trends, I calculated:
 
 • MAT: A moving annual total that smooths seasonal volatility, offering a robust view of the latest 12-month performance.
 
-• Notable Insight: The shampoo category’s turnover peaked in March 2023, reinforcing the sector’s growth potential.
+• Notable Insight: In the most recent 12 months, the shampoo's generated over $98 million of turnover.
 
 
 
