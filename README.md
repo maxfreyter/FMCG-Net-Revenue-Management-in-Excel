@@ -17,11 +17,10 @@ Analyzed FMCG data to optimize pricing, product mix, and promotional strategies,
 
 The journey begins with a meticulous examination of HealthMax’s market performance. Using dynamic PivotTables, I aggregated value sales data from 2018 to 2022, revealing compelling insights into brand evolution and year-over-year growth—while deliberately excluding the incomplete 2023 data to maintain accuracy.
 
+![2025-03-30](https://github.com/user-attachments/assets/79d36117-4b6f-4116-aafe-e609a5aede9f)
+
 📊 Notable Insight: HealthMax had it's strongest year of growth in 2020 at nearly 4%. Shinez was a big contributor with 7.7% growth!
 
-
-
-![2025-03-30](https://github.com/user-attachments/assets/79d36117-4b6f-4116-aafe-e609a5aede9f)
 
 
 ### 2. Year-to-Date (YTD) & Moving Annual Total (MAT) Analysis
@@ -34,11 +33,13 @@ To capture both seasonal nuances and long-term trends, I calculated:
 
 • MAT: A moving annual total that smooths seasonal volatility, offering a robust view of the latest 12-month performance. (=[@[Values YTD]]+SUMIFS(I:I;D:D;[@Brand];E:E;[@Region];F:F;[@Year]-1;G:G;">"&[@Month]))
 
+
+![2025-03-30 (1)](https://github.com/user-attachments/assets/b90ca3d9-37eb-465b-8e43-1e7f5369aae6)
+
 📊 Notable Insight: In the most recent 12 months, the shampoo's generated over $98 million of turnover.
 
 
 
-![2025-03-30 (1)](https://github.com/user-attachments/assets/b90ca3d9-37eb-465b-8e43-1e7f5369aae6)
 
 
 ### 3. Profitability & Gross Margin Optimization
@@ -57,10 +58,11 @@ Profitability is the heartbeat of strategic decision-making. Here, I dissected p
 
 • Profitability Matrix: A scatter plot mapping gross margin against net sales contribution, spotlighting the stars in the portfolio.
 
+![2025-03-30 (7)](https://github.com/user-attachments/assets/ad07c00f-6b49-4e29-8522-9bfc72226d44)
+
 📊 Notable Insight: Starbust Ultra Soft 100ML emerged as the flagship product, while Shinez Repair 200ML demonstrated unparalleled profitability.
 
 
-![2025-03-30 (7)](https://github.com/user-attachments/assets/ad07c00f-6b49-4e29-8522-9bfc72226d44)
 
 
 
