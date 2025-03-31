@@ -82,7 +82,7 @@ Based on this histoic trend, the 2024 category size should be approximately 20% 
 
 ![2025-03-31](https://github.com/user-attachments/assets/cdb33aa7-4877-410c-8226-445539d98a43)
 
-📊 Notable Insight: Projected 2024 Potential:  1,02 million units in the organic category are expected to sell in 2024.
+📊 Notable Insight: Projected 2024 Potential:  1.02 million units in the organic category are expected to sell in 2024.
 
 
 ### 5. Pricing Strategy: 50ML Shampoo Pack Launch
@@ -91,15 +91,16 @@ Based on this histoic trend, the 2024 category size should be approximately 20% 
 
 Capitalizing on consumer demand for travel-sized options, I reengineered the pricing strategy:
 
-• Calculated Price per ML: Based on the existing 100ML product to determine a competitive 50ML retail price.
+First, I calculated price per ML based on the existing 100ML product to determine a competitive 50ML retail price.
 
-• Sales Volume Forecast: Estimated the 50ML variant’s sales at 10% of the 100ML pack’s 2022 volume, ensuring a viable market entry.
-
-📊 Notable Insight: The 50ML pack is projected to generate significant annual net sales, unlocking a new revenue stream.
+Then I made a sales volume forecast. I estimated the 50ML variant’s sales at 10% of the 100ML pack’s 2022 volume, ensuring a viable market entry.
 
 ![2025-03-30 (6)](https://github.com/user-attachments/assets/98aa6646-8217-4e68-b10e-a4813895a532)
 
 ![2025-03-30 (5)](https://github.com/user-attachments/assets/51763028-42e4-42b1-82dc-451fdd6e9318)
+
+📊 Notable Insight: The 50ML pack is projected to generate significant annual net sales, unlocking a new revenue stream.
+
 
 
 
