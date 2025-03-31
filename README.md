@@ -80,7 +80,7 @@ Based on this histoic trend, the 2024 category size should be approximately 20% 
 
 ![2025-03-31](https://github.com/user-attachments/assets/cdb33aa7-4877-410c-8226-445539d98a43)
 
-📊 Notable Insight: Projected 2024 Potential:  1,020,899 units in the organic category are expected to sell in 2024.
+📊 Notable Insight: Projected 2024 Potential:  1,02 million units in the organic category are expected to sell in 2024.
 
 
 ### 5. Pricing Strategy: 50ML Shampoo Pack Launch
