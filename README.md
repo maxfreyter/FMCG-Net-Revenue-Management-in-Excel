@@ -117,13 +117,13 @@ To refine our promotional strategies for 2024, I evaluated three past promotions
 
 • Computing ROI: Determining the efficiency of each promotion to isolate the most cost-effective strategy.
 
-📊 Notable Insight: One promotion emerged as the clear winner in terms of ROI, setting the benchmark for future campaigns.
 
 
 
 ![2025-03-30 (8)](https://github.com/user-attachments/assets/a66c0cf4-1232-44f6-8772-dfdfd4c60a5d)
 
 
+📊 Notable Insight: One promotion emerged as the clear winner in terms of ROI, setting the benchmark for future campaigns.
 
 
 ### 7. Revenue Forecasting & Waterfall Growth Model
@@ -138,7 +138,7 @@ The final phase synthesizes all insights into a compelling forecast:
 
 • Waterfall Analysis: A visual model that integrates natural growth, new product initiatives, and the 50ML launch to reveal the total revenue impact.
 
-📊 Notable Insight: The comprehensive forecast projects a significant boost in 2024 revenue, affirming the effectiveness of the combined NRM initiatives.
+
 
 
 ![2025-03-30 (9)](https://github.com/user-attachments/assets/583eec6f-648d-4ba6-8770-f1471b726422)
@@ -146,3 +146,5 @@ The final phase synthesizes all insights into a compelling forecast:
 ---
 
 ![2025-03-30 (10)](https://github.com/user-attachments/assets/07d43c43-beba-43b9-a1ff-c7cf495f40db)
+
+📊 Notable Insight: The comprehensive forecast projects a significant boost in 2024 revenue, affirming the effectiveness of the combined NRM initiatives.
